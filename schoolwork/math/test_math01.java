@@ -1,4 +1,4 @@
-package com.rxy.lesson;
+package math;
 
 public class test_math01 {
     public static void main(String[] args) {
